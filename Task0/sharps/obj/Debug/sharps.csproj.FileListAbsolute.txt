@@ -1,0 +1,8 @@
+C:\Users\дура\source\repos\sharps\sharps\bin\Debug\sharps.exe.config
+C:\Users\дура\source\repos\sharps\sharps\bin\Debug\sharps.exe
+C:\Users\дура\source\repos\sharps\sharps\bin\Debug\sharps.pdb
+C:\Users\дура\source\repos\sharps\sharps\obj\Debug\sharps.csproj.AssemblyReference.cache
+C:\Users\дура\source\repos\sharps\sharps\obj\Debug\sharps.csproj.CoreCompileInputs.cache
+C:\Users\дура\source\repos\sharps\sharps\obj\Debug\sharps.exe
+C:\Users\дура\source\repos\sharps\sharps\obj\Debug\sharps.pdb
+C:\Users\дура\source\repos\sharps\sharps\obj\Debug\sharps.exe.config
