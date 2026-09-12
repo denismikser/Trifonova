@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0434\u0443\u0440\u0430\\source\\repos\\sharps\\",
+  "WorkspaceRootPath": "D:\\Github\\Trifonova\\Task0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E57DBBB8-F6F9-455B-B029-FE9335CDB0BB}|sharps\\Task0.csproj|c:\\users\\\u0434\u0443\u0440\u0430\\source\\repos\\sharps\\sharps\\task0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E57DBBB8-F6F9-455B-B029-FE9335CDB0BB}|sharps\\Task0.csproj|d:\\github\\trifonova\\task0\\sharps\\task0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E57DBBB8-F6F9-455B-B029-FE9335CDB0BB}|sharps\\Task0.csproj|solutionrelative:sharps\\task0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task0.cs",
-              "DocumentMoniker": "C:\\Users\\\u0434\u0443\u0440\u0430\\source\\repos\\sharps\\sharps\\Task0.cs",
+              "DocumentMoniker": "D:\\Github\\Trifonova\\Task0\\sharps\\Task0.cs",
               "RelativeDocumentMoniker": "sharps\\Task0.cs",
-              "ToolTip": "C:\\Users\\\u0434\u0443\u0440\u0430\\source\\repos\\sharps\\sharps\\Task0.cs",
+              "ToolTip": "D:\\Github\\Trifonova\\Task0\\sharps\\Task0.cs",
               "RelativeToolTip": "sharps\\Task0.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAYwEIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
